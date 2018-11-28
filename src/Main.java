@@ -25,7 +25,7 @@ public class Main {
             inputs[index].add(input);
         }
 
-//        Queue<Integer> queue = new PriorityQueue<>();
+        Queue<Integer> queue = new PriorityQueue<>();
 
 
 
